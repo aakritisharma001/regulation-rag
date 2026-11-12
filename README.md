@@ -151,7 +151,7 @@ regulation-rag/
 ### Step 1: Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/aakritisharma001/regulation-rag.git
 cd regulation-rag
 ```
 
