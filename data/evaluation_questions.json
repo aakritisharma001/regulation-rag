@@ -1,0 +1,123 @@
+
+[
+  {
+    "question": "What leverage ratio must a G-SIB branch maintain under the 2026 amendment?",
+    "relevant_documents": ["297NTF24A93A6BC7943F2A35FACCE28E4ABC3.pdf"]
+  },
+  {
+    "question": "When must a bank meet its minimum leverage ratio requirement?",
+    "relevant_documents": ["297NTF24A93A6BC7943F2A35FACCE28E4ABC3.pdf"]
+  },
+  {
+    "question": "What happens when a G-SIB branch does not meet its leverage ratio buffer requirement?",
+    "relevant_documents": ["297NTF24A93A6BC7943F2A35FACCE28E4ABC3.pdf"]
+  },
+  {
+    "question": "Can banks use daily or monthly averaging for leverage ratio calculations?",
+    "relevant_documents": ["297NTF24A93A6BC7943F2A35FACCE28E4ABC3.pdf"]
+  },
+  {
+    "question": "Which Basel framework does the RBI leverage ratio framework follow?",
+    "relevant_documents": ["297NTF24A93A6BC7943F2A35FACCE28E4ABC3.pdf"]
+  },
+  {
+    "question": "What security measures must ATM Switch Application Service Providers implement to detect malicious code?",
+    "relevant_documents": ["475MDA65A2A40240B4510BB6301A33C9ECBFE.pdf"]
+  },
+  {
+    "question": "How frequently should vulnerability assessments and penetration tests be conducted?",
+    "relevant_documents": ["475MDA65A2A40240B4510BB6301A33C9ECBFE.pdf"]
+  },
+  {
+    "question": "What should an ATM Switch Application Service Provider do after detecting vulnerabilities during VAPT?",
+    "relevant_documents": ["475MDA65A2A40240B4510BB6301A33C9ECBFE.pdf"]
+  },
+  {
+    "question": "What is the purpose of establishing a Cyber Security Operations Center under the RBI directions?",
+    "relevant_documents": ["475MDA65A2A40240B4510BB6301A33C9ECBFE.pdf"]
+  },
+  {
+    "question": "Which security standards must an Application Service Provider comply with where applicable?",
+    "relevant_documents": ["475MDA65A2A40240B4510BB6301A33C9ECBFE.pdf"]
+  },
+  {
+    "question": "What is the maximum amount allowed per transaction under the Domestic Money Transfer cash pay-out service?",
+    "relevant_documents": ["476MDDC5A297B05094F8096910FE97E1AD34D.pdf"]
+  },
+  {
+    "question": "What is the monthly transaction ceiling per beneficiary for the DMT cash pay-out service?",
+    "relevant_documents": ["476MDDC5A297B05094F8096910FE97E1AD34D.pdf"]
+  },
+  {
+    "question": "What are the transaction and monthly limits for cash pay-in transfers through Business Correspondents or ATMs?",
+    "relevant_documents": ["476MDDC5A297B05094F8096910FE97E1AD34D.pdf"]
+  },
+  {
+    "question": "What authentication is required for every transaction made by a remitter under the DMT cash pay-in service?",
+    "relevant_documents": ["476MDDC5A297B05094F8096910FE97E1AD34D.pdf"]
+  },
+  {
+    "question": "Which payment systems may be used for inter-bank settlement under the Domestic Money Transfer framework?",
+    "relevant_documents": ["476MDDC5A297B05094F8096910FE97E1AD34D.pdf"]
+  },
+  {
+    "question": "When did the Foreign Exchange Management Export and Import of Goods and Services Second Amendment Regulations, 2026 come into force?",
+    "relevant_documents": ["FEMA23RA03112026F5D7706996DD3493DAD9E0899C64D4793.pdf"]
+  },
+  {
+    "question": "How does the 2026 FEMA amendment define a resident individual?",
+    "relevant_documents": ["FEMA23RA03112026F5D7706996DD3493DAD9E0899C64D4793.pdf"]
+  },
+  {
+    "question": "When is a resident individual exporter of services deemed to have submitted the Export Declaration Form?",
+    "relevant_documents": ["FEMA23RA03112026F5D7706996DD3493DAD9E0899C64D4793.pdf"]
+  },
+  {
+    "question": "What inward remittance threshold applies to the deemed submission of the EDF for an exporter who is not a resident individual?",
+    "relevant_documents": ["FEMA23RA03112026F5D7706996DD3493DAD9E0899C64D4793.pdf"]
+  },
+  {
+    "question": "When must an authorised dealer enter import-of-service details in IDPMS under the amended regulation 18?",
+    "relevant_documents": ["FEMA23RA03112026F5D7706996DD3493DAD9E0899C64D4793.pdf"]
+  },
+  {
+    "question": "How is the Loss Component calculated for operational risk capital requirements?",
+    "relevant_documents": ["NT298343573D91EA4465B8CFF54B27EC977D5.pdf"]
+  },
+  {
+    "question": "How many years of high-quality operational risk loss data should banks normally use to calculate the Loss Component?",
+    "relevant_documents": ["NT298343573D91EA4465B8CFF54B27EC977D5.pdf"]
+  },
+  {
+    "question": "What minimum historical loss-data period can a bank use if it does not have ten years of high-quality operational risk loss data?",
+    "relevant_documents": ["NT298343573D91EA4465B8CFF54B27EC977D5.pdf"]
+  },
+  {
+    "question": "How is an operational loss calculated when a bank decides to replace or fully repair a damaged asset?",
+    "relevant_documents": ["NT298343573D91EA4465B8CFF54B27EC977D5.pdf"]
+  },
+  {
+    "question": "Which types of fee and commission income are included in the Services Component of the Business Indicator?",
+    "relevant_documents": ["NT298343573D91EA4465B8CFF54B27EC977D5.pdf"]
+  },
+  {
+    "question": "Where should FEMA compounding applications be submitted when no Unique Identification Number was allotted?",
+    "relevant_documents": ["NT298AC9CBAC4415B41D5B6CE45FF58A5AB54.pdf"]
+  },
+  {
+    "question": "Which RBI office handles compounding applications involving multiple transaction categories delegated to different offices?",
+    "relevant_documents": ["NT298AC9CBAC4415B41D5B6CE45FF58A5AB54.pdf"]
+  },
+  {
+    "question": "Which overseas investment regulations are covered by the FEMA compounding circular?",
+    "relevant_documents": ["NT298AC9CBAC4415B41D5B6CE45FF58A5AB54.pdf"]
+  },
+  {
+    "question": "Where should compounding applications for borrowing and lending contraventions generally be submitted under the FEMA circular?",
+    "relevant_documents": ["NT298AC9CBAC4415B41D5B6CE45FF58A5AB54.pdf"]
+  },
+  {
+    "question": "What is the submission rule when lending or guarantee contraventions relate to a foreign entity in which the applicant has made an overseas direct investment?",
+    "relevant_documents": ["NT298AC9CBAC4415B41D5B6CE45FF58A5AB54.pdf"]
+  }
+]
